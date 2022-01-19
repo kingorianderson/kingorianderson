@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingorianderson
+- 👋 Hi, I’m kingori anderson
 - 👀 I’m interested UI/UX Design and Frontend Development
 - 📫 How to reach me https://kingori.co.ke
 
