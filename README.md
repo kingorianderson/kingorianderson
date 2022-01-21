@@ -1,5 +1,5 @@
-- 👋 Hi, I’m kingori anderson
-- 👀 I’m interested UI/UX Design and Frontend Development
+- 👋 Hi, I’m Kingori Anderson
+- 👀 I’m a UI/UX Designer and Frontend Developer moving Full Stack 
 - 📫 How to reach me https://kingori.co.ke
 
 <!---
