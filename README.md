@@ -1,6 +1,7 @@
 
-
+<p align="center">
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kingorianderson&layout=compact)
+  </p>
 
 
 <!---
