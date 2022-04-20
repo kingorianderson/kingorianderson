@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Photoshop-F7B500?style=for-the-badge&logo=photoshop&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=photoshop&logoColor=31a8ff" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Figma-2496ED?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
 </p>
 
