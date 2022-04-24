@@ -30,7 +30,7 @@
 
 <br>
  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kingorianderson&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kingorianderson&exclude_repo=Shopping-App-API,mern-shopping-app,&layout=compact)
 
 
 
